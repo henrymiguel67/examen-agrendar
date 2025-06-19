@@ -1,0 +1,25 @@
+body{
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    font: 1em sans-serif;
+    background-color: rgb(193, 209, 209);
+}
+.container{
+    width: 600px;
+    height: 500px;
+    align-items: first baseline;
+    background-color: bisque;
+    border-radius: 15px ;
+}
+input {
+    display: flex;
+    text-align: justify ;
+    width: 200px;
+    height: 30px;
+}
+button{
+    display: flex;
+    text-align: center;
+    background-color: aquamarine;
+}

@@ -1,0 +1,28 @@
+body{
+    width: 400px;
+    height: 300px;
+    text-align: center;
+    font: 1em sans-serif;
+    font-size: medium;
+    background-color: rgb(193, 209, 209);
+}
+.container{
+    width: 600px;
+    height: 500px;
+    margin: 4px;
+    align-items: center;
+    background-color: bisque;
+    border-radius: 15px ;
+
+}
+button{
+    display: flex;
+    width: 200px;
+    height: 30px;
+    margin: 4px;
+    font-size: medium;
+    text-align: center;
+    background-color: aquamarine;
+
+}
+

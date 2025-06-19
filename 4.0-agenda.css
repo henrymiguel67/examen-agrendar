@@ -1,0 +1,38 @@
+body{
+    width: 400px;
+    height: 300px;
+    font: 1em sans-serif;
+    background-color: rgb(193, 209, 209);
+}
+.container{
+    width: 600px;
+    height: 500px;
+    align-items: center;
+    background-color: rgb(240, 211, 175);
+    border-radius: 15px ;
+}
+
+input {
+    display: flex;
+    width: 400px;
+    height: 30px;
+    margin: 4px;
+    text-align: justify ;
+    align-items: center;
+    
+}
+.info{
+    width: 400px;
+    height: 200px; 
+    text-align: justify;
+}
+
+button{
+    display: flex;
+    width: 200px;
+    height: 35px;
+    margin: 4px;
+    background-color: aquamarine;
+    text-align: center;  
+
+}

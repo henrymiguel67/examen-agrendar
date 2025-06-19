@@ -1,0 +1,33 @@
+body{
+    width: 400px;
+    height: 300px;
+    font: 1em sans-serif;
+    text-align: center;  
+    background-color: rgb(193, 209, 209);
+}
+.container{
+    width: 600px;
+    height: 500px;
+    text-align: center;
+    background-color: bisque;
+    border-radius: 15px ;
+}
+input {
+    display: flex;
+    width: 200px;
+    height: 30px;
+    margin: 4px;
+    font-size: medium;
+    text-align: justify ;
+    align-items: center;
+    
+}
+button{
+    display: flex;
+    margin: 4px;
+    background-color: aquamarine;
+    font-size: medium;
+    align-items: flex-end;
+    
+
+}
